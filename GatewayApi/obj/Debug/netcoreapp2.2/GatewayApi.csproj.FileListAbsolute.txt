@@ -1,0 +1,14 @@
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.deps.json
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.runtimeconfig.json
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.runtimeconfig.dev.json
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.dll
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.pdb
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.csproj.CoreCompileInputs.cache
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.RazorAssemblyInfo.cache
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.RazorAssemblyInfo.cs
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.AssemblyInfoInputs.cache
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.AssemblyInfo.cs
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.RazorTargetAssemblyInfo.cache
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.dll
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.pdb
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.csprojAssemblyReference.cache

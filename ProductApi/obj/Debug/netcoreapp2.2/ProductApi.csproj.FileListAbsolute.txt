@@ -1,0 +1,13 @@
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.deps.json
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.runtimeconfig.json
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.runtimeconfig.dev.json
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.dll
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.pdb
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.csproj.CoreCompileInputs.cache
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.RazorAssemblyInfo.cache
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.RazorAssemblyInfo.cs
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.AssemblyInfoInputs.cache
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.AssemblyInfo.cs
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.RazorTargetAssemblyInfo.cache
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.dll
+D:\Develoment\Microsoft Tech\.NET Core\APIGatewayExample\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.pdb
